@@ -6,7 +6,7 @@
 
 **An inclusive, AI-assisted healthcare coordination platform designed to make essential healthcare journeys easier to access, understand, and navigate.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20CareBridge-0F766E?style=for-the-badge)](https://whycode4uhack.vercel.app/)
+
 [![Repository](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/swathi-dot4/whycode4uhack)
 
 </div>
