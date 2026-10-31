@@ -136,7 +136,6 @@ Run the project's configured preview command, if available, to inspect the produ
 
 ## Project links
 
-- **Live application:** https://whycode4uhack.vercel.app/
 - **Source repository:** https://github.com/swathi-dot4/whycode4uhack
 
 ## Responsible AI, safety, and privacy
@@ -190,7 +189,6 @@ To make the project easy to assess, this repository should include:
 
 **Project:** CareBridge AI  
 **Repository:** [swathi-dot4/whycode4uhack](https://github.com/swathi-dot4/whycode4uhack)  
-**Live demo:** [whycode4uhack.vercel.app](https://whycode4uhack.vercel.app/)
 
 Add the names, roles, and contribution links of every team member here before final submission.
 
